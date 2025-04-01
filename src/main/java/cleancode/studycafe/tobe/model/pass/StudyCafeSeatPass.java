@@ -2,7 +2,7 @@ package cleancode.studycafe.tobe.model.pass;
 
 import cleancode.studycafe.tobe.model.pass.locker.StudyCafeLockerPass;
 
-public class StudyCafeSeatPass implements StudyCafePass{
+public class StudyCafeSeatPass implements StudyCafePass {
 
     private final StudyCafePassType passType;
     private final int duration;
